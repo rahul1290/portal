@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "525644256987",
+    "project_id": "portal-230df",
+    "storage_bucket": "portal-230df.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:525644256987:android:c9393b8eab4a2cd4a8defe",
+        "android_client_info": {
+          "package_name": "com.example.ibc24"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "525644256987-c3oftp72lf07p2dehflmnannhdh48jaj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2vg7M2zEEtaqFyXDo70dUL5CI7wS0iA8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "525644256987-c3oftp72lf07p2dehflmnannhdh48jaj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
